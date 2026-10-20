@@ -18,7 +18,7 @@ Full-Stack Developer · Architect · DevOps · AI Development**
 - CI/CD with GitLab, Jenkins, Azure DevOps and GitHub Actions.
 - **Azure** (AKS, Functions, Cosmos DB, Key Vault, API Management), **GCP** and **AWS**.
 - Monitoring with Prometheus, Grafana, Kibana and Splunk.
-- LPIC-1 certified; Linux administration for over 10 years.
+- **LPIC-1** certified; Linux/Unix (and Windows) administration for over 10 years.
 
 ### AI development
 - **AI platform**, **Spring AI**, LangChain, **RAG on pgvector**, local LLMs with **Ollama**, on-prem LLMs.
@@ -29,8 +29,8 @@ Full-Stack Developer · Architect · DevOps · AI Development**
 
 | Project | What it is |
 |---|---|
-| **AIForge** (private) | Self-hosted AI platform with about 310k lines of code in an NX monorepo (Java, Go, TypeScript, Kotlin, Python). It offers RAG chat, image generation, speech recognition, translation and web search, and ships as Debian/RPM packages, Docker images and a Kubernetes Helm chart. Partly hand-written, partly AI-assisted. |
-| **Edithor** (private) | Cross-platform text editor in the style of Notepad++, built with Go (Wails), TypeScript, Solid.js and CodeMirror 6. Coded with AI |
+| [**KeepUrAi**](https://qcg-ai.ch) | Self-hosted AI platform with about 310k lines of code in an NX monorepo (Java, Go, TypeScript, Kotlin, Python). It offers RAG chat, image generation, speech recognition, translation and web search, and ships as Debian/RPM packages, Docker images and a Kubernetes Helm chart. Partly hand-written, partly AI-assisted. |
+| [**Edithor**](https://privatestudio.ai/edithor) | Cross-platform text editor in the style of Notepad++, built with Go (Wails), TypeScript, Solid.js and CodeMirror 6. Written with AI agents; architecture by me. |
 | [**VintageWord**](https://github.com/networkinss/vintageword) | Native Windows x64 port of the original 1990 Word for Windows 1.1a source code (C and assembler), implemented with AI agents. Adjustments coded with AI |
 | [**Joaswizard**](https://github.com/networkinss/joaswizard) | Java library and IntelliJ plugin that generates OpenAPI documents from YAML or Excel. No AI. |
 | [**Idaithalam**](https://github.com/virtualansoftware/idaithalam) | Low-code REST API integration testing, generated from Postman collections. No AI. |
@@ -58,4 +58,3 @@ I have also contributed to [openapi-generator](https://github.com/OpenAPITools/o
 
 ## 📫 Connect
 [LinkedIn](https://www.linkedin.com/in/inss-oliver-glas/)
-
