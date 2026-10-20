@@ -29,7 +29,7 @@ Full-Stack Developer · Architect · DevOps · AI Development**
 
 | Project | What it is |
 |---|---|
-| **AIForge** (private) | Self-hosted AI platform with about 310k lines of code in an NX monorepo (Java, Go, TypeScript, Kotlin, Python). It offers RAG chat, image generation, speech recognition, translation and web search, and ships as Debian/RPM packages, Docker images and a Kubernetes Helm chart. Partly manual coded, partly AI. |
+| **AIForge** (private) | Self-hosted AI platform with about 310k lines of code in an NX monorepo (Java, Go, TypeScript, Kotlin, Python). It offers RAG chat, image generation, speech recognition, translation and web search, and ships as Debian/RPM packages, Docker images and a Kubernetes Helm chart. Partly hand-written, partly AI-assisted. |
 | **Edithor** (private) | Cross-platform text editor in the style of Notepad++, built with Go (Wails), TypeScript, Solid.js and CodeMirror 6. Coded with AI |
 | [**VintageWord**](https://github.com/networkinss/vintageword) | Native Windows x64 port of the original 1990 Word for Windows 1.1a source code (C and assembler), implemented with AI agents. Adjustments coded with AI |
 | [**Joaswizard**](https://github.com/networkinss/joaswizard) | Java library and IntelliJ plugin that generates OpenAPI documents from YAML or Excel. No AI. |
