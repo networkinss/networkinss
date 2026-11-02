@@ -7,23 +7,25 @@ Full-Stack Developer · Architect · DevOps · AI Development**
 ## 🔭 What I work on
 
 ### Full-stack development
-- **Java / Spring Boot** microservices (Spring Boot 1.x to 4), API-First with **OpenAPI**, plus backends in **Golang**
-- **Python / (FastAPI) AI inference**
+- **Java / Spring Boot** microservices (Spring Boot 1.x to 4), API-First with **OpenAPI**.
+- **Golang** with Gin or net/http, in webservices. Also used for some cli tools. Desktop applications with Wails.
+- **Python / (FastAPI) for small webservices and AI training (PyTorch, Panda)**
 - **React / TypeScript** and **Angular** frontends, with Electron and Wails for desktop apps.
-- Enterprise applications in banking, insurance and healthcare, including a worldwide technician catalogue app (Spring Boot, Angular, Azure, MongoDB) and workflow-automation web services with React.
-- Security with OAuth2, OpenID Connect, JWT, Keycloak and Azure AD.
+- Enterprise applications in banking, insurance and healthcare, building enterprise-grade applications (Spring Boot, Azure, RDBMS (Oracle, Postgres), NoSQL (MongoDB,CosmosDB,Cassandra) and related technologies.
+- Security with OAuth2, OpenID Connect, JWT, Keycloak,Zitadel and Azure AD.
 
 ### DevOps and cloud
 - **Kubernetes**, Helm, ArgoCD (GitOps), **Terraform**, Ansible, Docker.
 - CI/CD with GitLab, Jenkins, Azure DevOps and GitHub Actions.
 - **Azure** (AKS, Functions, Cosmos DB, Key Vault, API Management), **GCP** and **AWS**.
 - Monitoring with Prometheus, Grafana, Kibana and Splunk.
-- **LPIC-1** certified; Linux/Unix (and Windows) administration for over 10 years.
+- **LPIC-1** certified; Linux/Unix (and Windows) administration for over 10 years. 
 
 ### AI development
 - **AI platform**, **Spring AI**, LangChain, **RAG on pgvector**, local LLMs with **Ollama**, on-prem LLMs.
-- **MCP servers** and AI agents; AI-assisted ("agentic") engineering with Claude Code and GitHub Copilot.
-- Internal workshops on AI capabilities and agents.
+- **MCP servers** and AI agents: designing and building agent integrations for enterprise systems.
+- **Agentic engineering** in daily practice with Claude Code and GitHub Copilot, from code generation to refactoring and reviews.
+- Leading internal **workshops** on AI capabilities and agents.
 
 ## 🚀 Own projects
 
@@ -31,11 +33,11 @@ Full-Stack Developer · Architect · DevOps · AI Development**
 |---|---|
 | [**KeepUrAi**](https://qcg-ai.ch) | Self-hosted AI platform with about 310k lines of code in an NX monorepo (Java, Go, TypeScript, Kotlin, Python). It offers RAG chat, image generation, speech recognition, translation and web search, and ships as Debian/RPM packages, Docker images and a Kubernetes Helm chart. Partly hand-written, partly AI-assisted. |
 | [**Edithor**](https://privatestudio.ai/edithor) | Cross-platform text editor in the style of Notepad++, built with Go (Wails), TypeScript, Solid.js and CodeMirror 6. Written with AI agents; architecture by me. |
-| [**VintageWord**](https://github.com/networkinss/vintageword) | Native Windows x64 port of the original 1990 Word for Windows 1.1a source code (C and assembler), implemented with AI agents. Adjustments coded with AI |
+| [**VintageWord**](https://github.com/networkinss/vintageword) | Native Windows x64 port of the original 1990 Word for Windows 1.1a source code (C and assembler), implemented with AI |
 | [**Joaswizard**](https://github.com/networkinss/joaswizard) | Java library and IntelliJ plugin that generates OpenAPI documents from YAML or Excel. No AI. |
 | [**Idaithalam**](https://github.com/virtualansoftware/idaithalam) | Low-code REST API integration testing, generated from Postman collections. No AI. |
 
-I have also contributed to [openapi-generator](https://github.com/OpenAPITools/openapi-generator).
+I have also contributed to some opensource projects like [openapi-generator](https://github.com/OpenAPITools/openapi-generator).
 
 ## ✍️ Articles
 - Heise: [API-First-Lifecycle in einem Spring-Boot-Projekt mit Maven](https://www.heise.de/hintergrund/API-First-Lifecycle-in-einem-Spring-Boot-Projekt-mit-Maven-9639880.html)
@@ -55,6 +57,13 @@ I have also contributed to [openapi-generator](https://github.com/OpenAPITools/o
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?logo=claude&logoColor=white)
+![Agentic Coding](https://img.shields.io/badge/Agentic_Coding-D97757?logo=anthropic&logoColor=white)
+![MCP Server](https://img.shields.io/badge/MCP_Server-000000?logo=modelcontextprotocol&logoColor=white)
+![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?logo=spring&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?logo=postgresql&logoColor=white)
 
 ## 📫 Connect
 [LinkedIn](https://www.linkedin.com/in/inss-oliver-glas/)
