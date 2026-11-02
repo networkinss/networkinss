@@ -7,12 +7,12 @@ Full-Stack Developer · Architect · DevOps · AI Development**
 ## 🔭 What I work on
 
 ### Full-stack development
-- **Java / Spring Boot** microservices (Spring Boot 1.x to 4), API-First with **OpenAPI**.
-- **Golang** with Gin or net/http, in webservices. Also used for some cli tools. Desktop applications with Wails.
-- **Python / (FastAPI) for small webservices and AI training (PyTorch, Panda)**
-- **React / TypeScript** and **Angular** frontends, with Electron and Wails for desktop apps.
-- Enterprise applications in banking, insurance and healthcare, building enterprise-grade applications (Spring Boot, Azure, RDBMS (Oracle, Postgres), NoSQL (MongoDB,CosmosDB,Cassandra) and related technologies.
-- Security with OAuth2, OpenID Connect, JWT, Keycloak,Zitadel and Azure AD.
+* **Java / Spring Boot** microservices (Spring Boot 1.x to 4.x), API-first design with OpenAPI.
+* **Go** web services with Gin or net/http, CLI tools, and desktop applications with Wails.
+* **Python** with FastAPI for lightweight web services; machine learning and model training with PyTorch and pandas.
+* **React / TypeScript** and **Angular** frontends; desktop applications with Electron and Wails.
+* **Enterprise-grade applications** in banking, insurance, and healthcare: Spring Boot, Azure, relational databases (Oracle, PostgreSQL), and NoSQL (MongoDB, Cosmos DB, Cassandra).
+* **Security:** OAuth 2.0, OpenID Connect, JWT, Keycloak, Zitadel, and Microsoft Entra ID (formerly Azure AD).
 
 ### DevOps and cloud
 - **Kubernetes**, Helm, ArgoCD (GitOps), **Terraform**, Ansible, Docker.
