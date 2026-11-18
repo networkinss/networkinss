@@ -1,7 +1,7 @@
 # Hi, I'm Oliver 👋
 
 **Senior Software Engineer  
-Full-Stack Developer · Architect · DevOps · AI Development**  
+Full-Stack Developer · Architect · DevOps · MLOps · AI Development**  
 25+ years in software engineering, 15+ years of Java, based in Zürich, Switzerland.  
 
 Last years and also in several previous projects I worked as Devops engineer. Now I am trainging 
