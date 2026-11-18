@@ -2,7 +2,12 @@
 
 **Senior Software Engineer  
 Full-Stack Developer · Architect · DevOps · AI Development**  
-25+ years in software engineering, 15+ years of Java, based in Zürich, Switzerland.
+25+ years in software engineering, 15+ years of Java, based in Zürich, Switzerland.  
+
+Last years and also in several previous projects I worked as Devops engineer. Now I am trainging 
+myself to get ahead of DevOps, with DevSecOps and MLOps skills. I work anyway a lot with AI, integrating AI 
+in applications like Spring AI, and security is always a part of it. So that is my natural way ahea, going
+deeper into DevSecOps and MLOps.
 
 ## 🔭 What I work on
 
@@ -25,7 +30,7 @@ Full-Stack Developer · Architect · DevOps · AI Development**
 - **AI platform**, **Spring AI**, LangChain, **RAG on pgvector**, local LLMs with **Ollama**, on-prem LLMs.
 - **MCP servers** and AI agents: designing and building agent integrations for enterprise systems.
 - **Agentic engineering** in daily practice with Claude Code and GitHub Copilot, from code generation to refactoring and reviews.
-- Leading internal **workshops** on AI capabilities and agents.
+- Leading several internal **workshops** on AI capabilities and agents.
 
 ## 🚀 Own projects
 
