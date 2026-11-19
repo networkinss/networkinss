@@ -4,8 +4,8 @@
 Full-Stack Developer · Architect · DevOps · MLOps · AI Development**  
 25+ years in software engineering, 15+ years of Java, based in Zürich, Switzerland.  
 
-Last years and also in several previous projects I worked as Devops engineer. Now I am trainging 
-myself to get ahead of DevOps, with DevSecOps and MLOps skills. I work anyway a lot with AI, integrating AI 
+Last years and also in several previous projects I worked as Devops engineer. Now I am training 
+myself to get beyond pure DevOps, with DevSecOps and MLOps skills. I work anyway a lot with AI, integrating AI 
 in applications like Spring AI, and security is always a part of it. So that is my natural way ahea, going
 deeper into DevSecOps and MLOps.
 
