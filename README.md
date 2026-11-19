@@ -6,7 +6,7 @@ Full-Stack Developer · Architect · DevOps · MLOps · AI Development**
 
 Last years and also in several previous projects I worked as Devops engineer. Now I am training 
 myself to get beyond pure DevOps, with DevSecOps and MLOps skills. I work anyway a lot with AI, integrating AI 
-in applications like Spring AI, and security is always a part of it. So that is my natural way ahea, going
+in applications like Spring AI, and security is always a part of it. So that is my natural way ahead, going
 deeper into DevSecOps and MLOps.
 
 ## 🔭 What I work on
